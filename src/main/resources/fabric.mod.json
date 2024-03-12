@@ -1,18 +1,17 @@
 {
   "schemaVersion": 1,
-  "id": "serverseeker",
+  "id": "ophanim",
   "version": "${version}",
-  "name": "ServerSeeker",
-  "description": "Search for basically any Minecraft server that exists. Basically copenheimer, but public and better.",
+  "name": "Ophanim ServerSeeker",
+  "description": "A fork of the offical ServerSeeker Meteor addon for 555 clan.",
   "authors": [
-    "DAMcraft"
+    "DAMcraft",
+    "nimrod"
   ],
   "contact": {
-    "repo": "https://github.com/DAMcraft/MeteorServerSeeker/",
-    "discord": "https://discord.gg/serverseeker-1087081486747971705",
-    "homepage": "https://serverseeker.net/",
-    "issues": "https://github.com/DAMcraft/MeteorServerSeeker/issues",
-    "sources": "https://github.com/DAMcraft/MeteorServerSeeker/"
+    "repo": "https://github.com/ImaNimrod/ophanim-mc/",
+    "discord": "https://discord.gg/BktVB6gAxh",
+    "sources": "https://github.com/ImaNimrod/ophanim-mc/"
   },
   "icon": "assets/serverseeker/icon.png",
   "environment": "client",
@@ -35,7 +34,7 @@
   },
   "depends": {
     "java": ">=17",
-    "minecraft": ">=1.20.2"
+    "minecraft": ">=1.20"
   },
   "recommends": {
     "meteor-client": "*"

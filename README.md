@@ -1,5 +1,8 @@
 # ophanim-mc
-This is a **fork** of the official ServerSeeker Meteor addon for created for 555 clan. I have added (or am currently working on) a number of 555 specific features designed to make collaboration across servers possible. Aside from that, almost all of the code and the underlying API was not created by me.
+This is a **fork** of the offical ServerSeeker Meteor addon for created for 555 clan. I have added (or am currently working on) a number of 555 specific features designed to make collaboration across servers possible. Aside from that, almost all of the code and the underlying API was not created by me.
+
+## Join the discord:
+https://discord.gg/BktVB6gAxh
 
 ## Installation
 1. Download Meteor Client (https://meteorclient.com/download), for help see https://meteorclient.com/faq/installation
