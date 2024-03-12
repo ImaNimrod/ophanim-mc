@@ -1,29 +1,11 @@
-<a href="https://github.com/DAMcraft/MeteorServerSeeker/releases/download/4.3.0/server-seeker-4.3.0.jar">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Download-2b2b2b?style=for-the-badge&logo=download&logoColor=white" width=2000></img>
-</a>
+# ophanim-mc
+This is a **fork** of the official ServerSeeker Meteor addon for created for 555 clan. I have added (or am currently working on) a number of 555 specific features designed to make collaboration across servers possible. Aside from that, almost all of the code and the underlying API was not created by me.
 
-## Installing
+## Installation
 1. Download Meteor Client (https://meteorclient.com/download), for help see https://meteorclient.com/faq/installation
-2. Download Meteor ServerSeeker using the comically large button above and drop it in your mods folder!
-    
-    
-<h1 align="center"> Official ServerSeeker addon for meteor </h1>
+2. Download the Ophanim ServerSeeker mod using the appropriate release tab and drop it in your mods folder.
 
-<div align="center">
-    <h3>Offical ServerSeeker discord server (has a bot with a few more functionalities, like searching for bedrock servers), join for support</h3>
-    <a href="https://discord.gg/jVyHyYbqdS">
-    <img src="https://invidget.switchblade.xyz/serverseeker-1087081486747971705">
-    </a>
-</div>  
-<br>
-<br>
-<br>    
-
-<a href="https://serverseeker.net/docs.html"> ![Powered by ServerSeeker](https://img.shields.io/badge/Powered%20by%20the%20ServerSeeker--API-%232b2b2b.svg?style=for-the-badge&logo=python&logoColor=18d3ae)</a>
-![Github Stars](https://img.shields.io/github/stars/DAMcraft/MeteorServerSeeker?style=for-the-badge&logo=github&labelColor=2b2b2b&color=2b2b2b)
-![Downloads](https://img.shields.io/github/downloads/DAMcraft/MeteorServerSeeker/total?style=for-the-badge&logo=github&labelColor=2b2b2b&color=2b2b2b)
-
-
+## The following usage instructions below are from the original mod's README:
 
 ## How to use:
 ### Logging in:
