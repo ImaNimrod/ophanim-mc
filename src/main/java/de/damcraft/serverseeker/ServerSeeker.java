@@ -66,7 +66,7 @@ public class ServerSeeker extends MeteorAddon {
 
     @Override
     public GithubRepo getRepo() {
-        return new GithubRepo("DAMcraft", "MeteorServerSeeker");
+        return new GithubRepo("ImaNimrod", "ophanim-mc");
     }
 
     @Override
@@ -74,14 +74,4 @@ public class ServerSeeker extends MeteorAddon {
         return "https://serverseeker.net/";
     }
 
-    @Override
-    public String getCommit() {
-        String commit = FabricLoader
-            .getInstance()
-            .getModContainer("serverseeker")
-            .get().getMetadata()
-            .getCustomValue("github:sha")
-            .getAsString();
-        return commit.isEmpty() ? null : commit.trim();
-    }
 }
